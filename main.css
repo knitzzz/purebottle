@@ -1,0 +1,48 @@
+.parallax {
+    background-image: url(Images/filler3.jpg);
+    height: 710px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imager{
+    margin:50px;
+    
+}
+.par{
+    margin-top: 20px;
+    line-height: 1.75;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right:40px;
+    text-align: center;
+
+}
+.yeet{
+    background-color:#f2f7ff;
+}
+.yeeter{
+    margin-top: 75px;
+}
+.h{
+    padding-left: 600px;
+    text-align: center;
+    text-align: left;
+    text-align: right;
+    text-align: justify;
+}
+.navbar {
+    position: fixed; /* Set the navbar to fixed position */
+}
+.yee{
+    padding-left: 30px;
+}
+.dope{
+    margin-top: 50px;
+}
+.hi{
+    padding-left:650px;
+    padding-top:40px;
+}
